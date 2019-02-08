@@ -1,0 +1,1 @@
+Thiscompiler is needed to run the xraylib functions.  It installs incorrectly.  Runt the instalation and after it fails follow INSTRUCTIONS pdf

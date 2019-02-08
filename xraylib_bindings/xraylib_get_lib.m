@@ -1,0 +1,6 @@
+function xraylib_get_lib
+if libisloaded('libxrl') == 0
+loadlibrary('C:\Windows\System32\libxrl-7.dll',...
+            [xraylib_Library_Path,'xraylib.h'],...
+            'alias','libxrl')
+end
